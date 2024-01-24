@@ -29,6 +29,10 @@ html.dark {
   color: #fff;
 }
 
+.dark .skill {
+  color: #ff9776 !important;
+}
+
 /* nav styles */
 
 .hamburger {
